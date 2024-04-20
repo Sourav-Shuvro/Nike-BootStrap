@@ -1,0 +1,47 @@
+/* Header Font and Background Color */
+header{
+    font-family: "Roboto Condensed", sans-serif;
+}
+.header-color{
+    background-color: #FFF9F4;
+}
+
+/* Link Hover Styles */
+.link-hover{
+    color: black;
+    transition: 0.5s;
+}
+.link-hover:hover{
+    text-decoration: underline;
+    color: #FA804C;
+    transform: scale(1.1);
+}
+
+/* H1 Text Color */
+.txt-color{
+    font-optical-sizing: auto;
+    font-weight: 500;
+    color: #FA804C;
+}
+
+.txt-font{
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+/* Button Design */
+.btn-color{
+    background-color: #3D4FF3;
+    color: white;
+    transition: 0.5s;
+}
+.btn-color:hover{
+    background-color: #FA804C;
+    transform: scale(1.1);
+}
+
+/* Image Background Color */
+.img-back{
+    background-color: #F1F1F1;
+    height: 320px;
+}
+
